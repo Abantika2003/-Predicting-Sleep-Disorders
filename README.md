@@ -114,12 +114,3 @@ The machine learning models were able to identify patterns between lifestyle hab
 
 ---
 
-## Author
-Abantika Jena  
-
-Data Science and AI Enthusiast interested in Machine Learning, Data Analytics, and Artificial Intelligence.
-
----
-
-## License
-This project is open-source and intended for educational and research purposes.
